@@ -1,6 +1,6 @@
-# Lab 04-06: Gradebook Explorer
+# Gradebook Explorer - CSV Gradebook Dashboard
 
-Gradebook Explorer is a browser-based gradebook viewer for CSCI 3230U Web App Development Labs 04-06. It loads grade data from a CSV file, renders it as an interactive spreadsheet, summarizes selected rows or columns, supports inline grade editing, and visualizes the selected grade distribution with D3.
+Gradebook Explorer is a browser-based gradebook viewer. It loads grade data from a CSV file, renders it as an interactive spreadsheet, summarizes selected rows or columns, supports inline grade editing, and visualizes the selected grade distribution with D3.
 
 ![Gradebook Explorer overview](images/img1.png)
 
